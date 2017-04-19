@@ -1,2 +1,3 @@
 # hello-world
-Just an exercise
+
+Hi all, this is Nora here. 
